@@ -1,1 +1,5 @@
-# landing_page_regulamentacao
+# landing_page_regulamentacao:
+- HTML
+- CSS
+- JAVASCRIT
+- FRAMEWORK DESIGN BOOTSTRAP
